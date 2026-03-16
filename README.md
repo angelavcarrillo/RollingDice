@@ -1,0 +1,1 @@
+In this project I explored how @State properties and buttons work to update the UI of the app by creating an app to roll virtual dice. Added the functionality to increase or decrease the number of dice on the screen to play different kinds of games.
